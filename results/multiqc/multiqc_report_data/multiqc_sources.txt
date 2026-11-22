@@ -1,0 +1,13 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	SRR1576457_1	/home/linux/projects/nextflow-rnaseq/work/ed/3adefb295e1098aa09d95baa9d6c48/SRR1576457_1_fastqc.zip
+FastQC	all_sections	SRR1576457_2	/home/linux/projects/nextflow-rnaseq/work/ed/3adefb295e1098aa09d95baa9d6c48/SRR1576457_2_fastqc.zip
+FastQC	all_sections	SRR1576458_1	/home/linux/projects/nextflow-rnaseq/work/ed/3adefb295e1098aa09d95baa9d6c48/SRR1576458_1_fastqc.zip
+FastQC	all_sections	SRR1576458_2	/home/linux/projects/nextflow-rnaseq/work/ed/3adefb295e1098aa09d95baa9d6c48/SRR1576458_2_fastqc.zip
+FastQC	all_sections	SRR1576459_1	/home/linux/projects/nextflow-rnaseq/work/ed/3adefb295e1098aa09d95baa9d6c48/SRR1576459_1_fastqc.zip
+FastQC	all_sections	SRR1576459_2	/home/linux/projects/nextflow-rnaseq/work/ed/3adefb295e1098aa09d95baa9d6c48/SRR1576459_2_fastqc.zip
+FastQC	all_sections	SRR1576460_1	/home/linux/projects/nextflow-rnaseq/work/ed/3adefb295e1098aa09d95baa9d6c48/SRR1576460_1_fastqc.zip
+FastQC	all_sections	SRR1576460_2	/home/linux/projects/nextflow-rnaseq/work/ed/3adefb295e1098aa09d95baa9d6c48/SRR1576460_2_fastqc.zip
+FastQC	all_sections	SRR1576461_1	/home/linux/projects/nextflow-rnaseq/work/ed/3adefb295e1098aa09d95baa9d6c48/SRR1576461_1_fastqc.zip
+FastQC	all_sections	SRR1576461_2	/home/linux/projects/nextflow-rnaseq/work/ed/3adefb295e1098aa09d95baa9d6c48/SRR1576461_2_fastqc.zip
+FastQC	all_sections	SRR1576462_1	/home/linux/projects/nextflow-rnaseq/work/ed/3adefb295e1098aa09d95baa9d6c48/SRR1576462_1_fastqc.zip
+FastQC	all_sections	SRR1576462_2	/home/linux/projects/nextflow-rnaseq/work/ed/3adefb295e1098aa09d95baa9d6c48/SRR1576462_2_fastqc.zip

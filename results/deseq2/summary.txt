@@ -1,0 +1,4 @@
+Genes tested: 12523
+Genes with adjusted p-value < 0.05: 1420
+Genes higher at 29C: 759
+Genes lower at 29C: 661

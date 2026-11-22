@@ -1,0 +1,23 @@
+# Nextflow execution cache and temporary work
+.nextflow/
+.nextflow.log*
+work/
+
+# Large input data and reference assets
+data/raw/
+data/reference/
+
+# Salmon reference index (rebuildable)
+results/salmon/flybase_r6.69_index/
+
+# Keep only final pipeline reports and provenance
+logs/*
+!logs/final_pipeline_report.html
+!logs/final_pipeline_timeline.html
+!logs/final_pipeline_trace.tsv
+
+# General temporary and operating-system files
+*.tmp
+*.part
+.DS_Store
+Thumbs.db

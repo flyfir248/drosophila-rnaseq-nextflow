@@ -1,0 +1,5 @@
+FROM bioconductor/bioconductor_docker:RELEASE_3_21
+
+RUN R -q -e 'BiocManager::install(c("tximport", "DESeq2", "ggplot2"), ask=FALSE, update=FALSE)'
+
+RUN R -q -e 'stopifnot(requireNamespace("tximport", quietly=TRUE), requireNamespace("DESeq2", quietly=TRUE), requireNamespace("ggplot2", quietly=TRUE))'

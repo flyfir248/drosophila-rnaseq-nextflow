@@ -1,0 +1,7 @@
+"","sample","run_accession","population","temperature","replicate","fastq_1","fastq_2"
+"Maine_21C_rep1","Maine_21C_rep1","SRR1576457","Maine","21",1,"data/raw/SRR1576457_1.fastq.gz","data/raw/SRR1576457_2.fastq.gz"
+"Maine_21C_rep2","Maine_21C_rep2","SRR1576458","Maine","21",2,"data/raw/SRR1576458_1.fastq.gz","data/raw/SRR1576458_2.fastq.gz"
+"Maine_21C_rep3","Maine_21C_rep3","SRR1576459","Maine","21",3,"data/raw/SRR1576459_1.fastq.gz","data/raw/SRR1576459_2.fastq.gz"
+"Maine_29C_rep1","Maine_29C_rep1","SRR1576460","Maine","29",1,"data/raw/SRR1576460_1.fastq.gz","data/raw/SRR1576460_2.fastq.gz"
+"Maine_29C_rep2","Maine_29C_rep2","SRR1576461","Maine","29",2,"data/raw/SRR1576461_1.fastq.gz","data/raw/SRR1576461_2.fastq.gz"
+"Maine_29C_rep3","Maine_29C_rep3","SRR1576462","Maine","29",3,"data/raw/SRR1576462_1.fastq.gz","data/raw/SRR1576462_2.fastq.gz"

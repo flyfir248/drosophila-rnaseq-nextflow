@@ -1,0 +1,7 @@
+run_accession	library_layout	fastq_bytes	read_count	base_count	scientific_name	fastq_ftp
+SRR1576457	PAIRED	2279676008;2365631437	29910512	5383892160	Drosophila melanogaster	ftp.sra.ebi.ac.uk/vol1/fastq/SRR157/007/SRR1576457/SRR1576457_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR157/007/SRR1576457/SRR1576457_2.fastq.gz
+SRR1576458	PAIRED	1743202950;1810032682	22913947	4124510460	Drosophila melanogaster	ftp.sra.ebi.ac.uk/vol1/fastq/SRR157/008/SRR1576458/SRR1576458_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR157/008/SRR1576458/SRR1576458_2.fastq.gz
+SRR1576459	PAIRED	2362413633;2452114070	31128895	5603201100	Drosophila melanogaster	ftp.sra.ebi.ac.uk/vol1/fastq/SRR157/009/SRR1576459/SRR1576459_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR157/009/SRR1576459/SRR1576459_2.fastq.gz
+SRR1576460	PAIRED	2275413529;2311731209	29434539	5298217020	Drosophila melanogaster	ftp.sra.ebi.ac.uk/vol1/fastq/SRR157/000/SRR1576460/SRR1576460_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR157/000/SRR1576460/SRR1576460_2.fastq.gz
+SRR1576461	PAIRED	2223507714;2265723044	28701103	5166198540	Drosophila melanogaster	ftp.sra.ebi.ac.uk/vol1/fastq/SRR157/001/SRR1576461/SRR1576461_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR157/001/SRR1576461/SRR1576461_2.fastq.gz
+SRR1576462	PAIRED	2417622178;2466404817	31333156	5639968080	Drosophila melanogaster	ftp.sra.ebi.ac.uk/vol1/fastq/SRR157/002/SRR1576462/SRR1576462_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR157/002/SRR1576462/SRR1576462_2.fastq.gz
