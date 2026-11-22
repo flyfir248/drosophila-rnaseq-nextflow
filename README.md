@@ -25,14 +25,14 @@ Zhao et al. (2015). *Parallel Gene Expression Differences between Low and High L
 - [PubMed Central article](https://pmc.ncbi.nlm.nih.gov/articles/PMC4423912/)
 - Sequencing data: publicly available through [NCBI SRA](https://www.ncbi.nlm.nih.gov/sra) and the [European Nucleotide Archive (ENA)](https://www.ebi.ac.uk/ena/browser/home).
 
-| Sample group | Run accession | ENA record |
-|---|---|---|
-| 21°C replicate 1 | SRR1576457 | [View run](https://www.ebi.ac.uk/ena/browser/view/SRR1576457) |
-| 21°C replicate 2 | SRR1576458 | [View run](https://www.ebi.ac.uk/ena/browser/view/SRR1576458) |
-| 21°C replicate 3 | SRR1576459 | [View run](https://www.ebi.ac.uk/ena/browser/view/SRR1576459) |
-| 29°C replicate 1 | SRR1576460 | [View run](https://www.ebi.ac.uk/ena/browser/view/SRR1576460) |
-| 29°C replicate 2 | SRR1576461 | [View run](https://www.ebi.ac.uk/ena/browser/view/SRR1576461) |
-| 29°C replicate 3 | SRR1576462 | [View run](https://www.ebi.ac.uk/ena/browser/view/SRR1576462) |
+| Sample group | Run accession | Read 1 | Read 2 | ENA record |
+|---|---|---|---|---|
+| 21°C replicate 1 | SRR1576457 | [Download](https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR157/007/SRR1576457/SRR1576457_1.fastq.gz) | [Download](https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR157/007/SRR1576457/SRR1576457_2.fastq.gz) | [ENA record](https://www.ebi.ac.uk/ena/browser/view/SRR1576457) |
+| 21°C replicate 2 | SRR1576458 | [Download](https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR157/008/SRR1576458/SRR1576458_1.fastq.gz) | [Download](https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR157/008/SRR1576458/SRR1576458_2.fastq.gz) | [ENA record](https://www.ebi.ac.uk/ena/browser/view/SRR1576458) |
+| 21°C replicate 3 | SRR1576459 | [Download](https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR157/009/SRR1576459/SRR1576459_1.fastq.gz) | [Download](https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR157/009/SRR1576459/SRR1576459_2.fastq.gz) | [ENA record](https://www.ebi.ac.uk/ena/browser/view/SRR1576459) |
+| 29°C replicate 1 | SRR1576460 | [Download](https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR157/000/SRR1576460/SRR1576460_1.fastq.gz) | [Download](https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR157/000/SRR1576460/SRR1576460_2.fastq.gz) | [ENA record](https://www.ebi.ac.uk/ena/browser/view/SRR1576460) |
+| 29°C replicate 2 | SRR1576461 | [Download](https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR157/001/SRR1576461/SRR1576461_1.fastq.gz) | [Download](https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR157/001/SRR1576461/SRR1576461_2.fastq.gz) | [ENA record](https://www.ebi.ac.uk/ena/browser/view/SRR1576461) |
+| 29°C replicate 3 | SRR1576462 | [Download](https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR157/002/SRR1576462/SRR1576462_1.fastq.gz) | [Download](https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR157/002/SRR1576462/SRR1576462_2.fastq.gz) | [ENA record](https://www.ebi.ac.uk/ena/browser/view/SRR1576462) |
 
 Reference resources:
 - *Drosophila melanogaster* reference genome and annotation: [FlyBase r6.69 archive (FB2026_03)](https://s3ftp.flybase.org/genomes/Drosophila_melanogaster/dmel_r6.69_FB2026_03/index.html).
